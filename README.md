@@ -18,11 +18,19 @@ An Arabic-first bilingual nonprofit website with member accounts, administrator 
 
 Currently in pre-launch development. The public repository contains sanitized source; operational records, credentials and original beneficiary media are excluded.
 
-### [AI Plant Identification and Disease Detection](https://github.com/fadymagdy159/AI_Plant_fixed)
+### AI Plant Identification and Disease Detection
 
 Graduation project combining a Django platform, Flask inference APIs, PostgreSQL, ResNet-50 image classification and LLaMA-based plant-care guidance. Includes plant-health dashboards and community features.
 
 **Python · Django · Flask · TensorFlow/Keras · PostgreSQL · LLaMA**
+
+Graduation project; source publication is pending.
+
+### [E-commerce Application](https://github.com/fadymagdy159/E-commerce-Project)
+
+A Django e-commerce application using PostgreSQL for data storage.
+
+**Python · Django · PostgreSQL**
 
 ### [Personal Portfolio](https://github.com/fadymagdy159/portfolio-website)
 
