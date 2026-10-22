@@ -24,11 +24,11 @@ Graduation project combining a Django platform, Flask inference APIs, PostgreSQL
 
 **Python · Django · Flask · TensorFlow/Keras · PostgreSQL · LLaMA**
 
-### [E-commerce Application](https://github.com/fadymagdy159/E-commerce-Project)
+### [Personal Portfolio](https://github.com/fadymagdy159/portfolio-website)
 
-A web development project using Django and PostgreSQL to build an e-commerce application.
+A personal website presenting my background and development projects.
 
-**Python · Django · PostgreSQL**
+**HTML · CSS · JavaScript**
 
 ## Technical toolkit
 
